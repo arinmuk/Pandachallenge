@@ -1,0 +1,11 @@
+
+
+1. Male players account for majority of the players in the dataset. 
+   Data set show majority of the purchases are by male players
+2. Most players are within the age group 20-24. mostly undergraduates and college students probably.
+   They are also the highest spending group. So probably intense gaming age group. 
+   Second biggest category is high schoolers which would be represented by the age group 15-19 being 
+   the second largest player category. This group also the second highest spending. so this group also buys and play
+   a lot of games and spend itme on games.
+3. The item :Oathbreaker, Last Hope of the Breaking Storm is the most popular item and generates more revenue.
+   There are repeat buyers  of Items.
